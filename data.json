@@ -1,0 +1,33 @@
+{
+    "sad": {
+        "username": "sad",
+        "email": "tony@gmail.com",
+        "full_name": "Tony Stark",
+        "password": "",
+        "disabled": null,
+        "hashed_password": "$2b$12$Ua5YDMTTtD4EOmv73pU2w.sAOb4zqyrVuj1Lqtr/rb7pcIk8SLBYW"
+    },
+    "ahm": {
+        "username": "ahm",
+        "email": "step@gmail.com",
+        "full_name": "Stephen",
+        "password": null,
+        "disabled": null,
+        "hashed_password": "$2b$12$U7.rBbAcBiRO6DT2BSyYB.KaAsAGoSOo8LBR6PAM0zsFrFszOEDXy"
+    },
+    "strange": {
+        "username": "strange",
+        "email": "strange@gmail.com",
+        "full_name": "Stephen Strange",
+        "password": null,
+        "disabled": false,
+        "hashed_password": "$2b$12$NFPaVpp0yAJAsLAt3wx1e.rKMQ/anExGC9vBqPizTubS0ETZpKJri"
+    },
+    "cap": {
+        "username": "cap",
+        "email": "cap@gmail.com",
+        "full_name": "Captain America",
+        "disabled": false,
+        "hashed_password": "$2b$12$wx0FC/BgP3ov01kjabdCXOvyBWaf9R9BtZ5kjGnbrRhidBKgnI4ai"
+    }
+}
