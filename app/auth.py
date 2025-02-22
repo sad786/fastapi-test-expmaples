@@ -124,6 +124,10 @@ async def get_current_active_user(
     return current_user
 
 
+@app.get("/")
+async def home():
+    return "Hello I am FastAPI Home Page!"
+
 @app.post("/token")
 async def login_for_access_token(
     form_data: Annotated[OAuth2PasswordRequestForm, Depends()],
